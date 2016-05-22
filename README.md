@@ -15,10 +15,15 @@ To run this program, type:
 # How to use
 When you run the program, you will be greeted by the system window. The window contains:
 	- **SpeedMeter** - shows the speed of the system in RPM
+	
 	- **Fuel Meter/Fuel Tank** - displays the current gas in the tank
+	
 	- **Revolutions Counter** - displays the number of revolutions in the current session
+	
 	- **Wheel** - the visual representation of the System
+	
 	- **System Controller** - a slider that you cant move to control the speed of the system
+	
 	- **Add Gas button** - click it to fill the gas tank
 	
 To start, you need to add gas to the tank, so you must click the Add Gas button. Now that the gas is full, you can move the slider, and the wheel will start moving. If you move the slider to the right, the speed increases; if moving to the left, the speed decreases. If the system runs out of gas, the wheel will stop moving, so keep an eye on the gas!
